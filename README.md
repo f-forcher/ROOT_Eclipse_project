@@ -16,5 +16,5 @@
 1. Open a terminal and select the root to use with the aliases (eg `root_6_06_select`) or soucing the scripts in `~/Documents/root_varie`
 2. Open eclipse using the script corresponding the selected ROOT
 3. Compile one of the five configurations in Eclipse
-4. Run from the terminal the executable in the corresponding folder, you should see the image
-
+4. Run from the terminal the executable in the corresponding folder, you should see the following image  
+![Hello world](https://github.com/f-forcher/ROOT_Eclipse_project/blob/master/Hello.png)
