@@ -39,7 +39,7 @@ The reason to use Eclipse for the copy is that copying using the system file bro
 
 
 Then, **DELETE the NEWNAME/.git/ folder!!** This is very important since otherwise you would be trying to push to *THIS* repository!
-Then, make a new *NEWNAME* repository in github without a README so it's clean, and then instead od following Github's on-screen instuctions,
+Then, make a new *NEWNAME* repository in github without a README so it's clean, and then instead of following Github's on-screen instuctions,
 run from a terminal these slightly modified instructions:
 ```sh
 cd ~/git/NEWNAME
