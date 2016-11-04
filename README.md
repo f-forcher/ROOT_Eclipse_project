@@ -13,9 +13,9 @@
 4. Put the scripts to run eclipse (eg `~/SCRIPT_ROOT_ECLIPSE/eclipse_root534.sh`) for example on the Desktop.
 
 ## Test usability
-Either
-1. Open eclipse using the script corresponding to the selected ROOT.
-2. Compile one of the five configurations in Eclipse.
+Either  
+ 1. Open eclipse using the script corresponding to the selected ROOT.
+ 2. Compile one of the five configurations in Eclipse.
 
 
 Or 
