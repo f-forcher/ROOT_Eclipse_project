@@ -43,7 +43,7 @@ Then, make a new *NEWNAME* repository in github without a README so it's clean, 
 open a terminal, `cd` into the project folder, and ther run these slightly modified commands:
 ```sh
 cd ~/git/NEWNAME
-echo "# Ronch-braggPlot_v04" >> README.md
+echo "# NEWNAME" > README.md
 git init
 git add --all
 git commit -m "first commit"
