@@ -40,7 +40,7 @@ The reason to use Eclipse for the copy is that copying using the system file bro
 
 Then, **DELETE the NEWNAME/.git/ folder!!** This is very important since otherwise you would be trying to push to *THIS* repository!
 Then, make a new *NEWNAME* repository in github without a README so it's clean, and then instead of following Github's on-screen instuctions,
-run from a terminal these slightly modified instructions:
+open a terminal, `cd` into the project folder, and ther run these slightly modified commands:
 ```sh
 cd ~/git/NEWNAME
 echo "# Ronch-braggPlot_v04" >> README.md
