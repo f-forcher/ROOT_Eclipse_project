@@ -18,20 +18,20 @@ Either
  2. Compile one of the five configurations in Eclipse.
 
 
-Or 
-1. Open a terminal and select the root to use with the aliases (eg `root_6_06_select`) or soucing the scripts in `~/Documents/root_varie`.
-2. Go the project folder (e.g. `~/git/ROOT_Eclipse_project`), choose a configuration (e.g. `Release`) and do
-```sh
-cd Release
-make clean
-make 
-cd ..
-``` 
-`make clean` may not be necessary, but it's recommended the first time you try to compile (as I prefer to save also binaries to git, and they may not be compatible with your machine).
+Or  
+ 1. Open a terminal and select the root to use with the aliases (eg `root_6_06_select`) or soucing the scripts in `~/Documents/ root_varie`.
+ 2. Go the project folder (e.g. `~/git/ROOT_Eclipse_project`), choose a configuration (e.g. `Release`) and do
+ ```sh
+ cd Release
+ make clean
+ make 
+ cd ..
+ ``` 
+ `make clean` may not be necessary, but it's recommended the first time you try to compile (as I prefer to save also binaries to git, and they may not be compatible with your machine).
 
 and then
-4. Run from the terminal the executable in the corresponding folder (e.g. executing `./Release/ROOT_Eclipse_project`), you should see the following image in a ROOT canvas window:
-![Hello world](https://github.com/f-forcher/ROOT_Eclipse_project/blob/master/Hello.png)
+ 4. Run from the terminal the executable in the corresponding folder (e.g. executing `./Release/ROOT_Eclipse_project`), you should see the following image in a ROOT canvas window:  
+   ![Hello world](https://github.com/f-forcher/ROOT_Eclipse_project/blob/master/Hello.png)
 
 ## Use as a template
 To use it as a template for a new project would be to open Eclipse, copy and paste it (probably you want it in the `~/git/` folder, which is usually different from the standard `workspace/` one) with a new name (let's call it *NEWNAME*).  
