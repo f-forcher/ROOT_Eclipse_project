@@ -50,5 +50,5 @@ git commit -m "first commit"
 git remote add origin YOUR_REPO_URL # YOUR_REPO_URL should be like 'https://github.com/YOUR_GIT_USERNAME/NEWNAME.git'
 git push -u origin master
 ```
-then refresh the repository page in the browser, and you should see the committed changes. Now you should be ready to go, and put
+then refresh the repository page in the browser, and you should see the committed changes. Now you should be ready to start and put
 your own code in the the `src/` folder.
